@@ -12,8 +12,8 @@ https://api.covid19india.org/data.json
 Telangana District Api:
 https://api.covid19india.org/state_district_wise.json
 
-<imp src"1.jfif" width=200 height=300/>
+<img src="1.jfif" width=200 height=300/>
 
-<imp src"2.jfif" width=200 height=300/>
+<img src="2.jfif" width=200 height=300/>
 
-<imp src"3.jfif" width=200 height=300/>
+<img src="3.jfif" width=200 height=300/>
